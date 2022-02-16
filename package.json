@@ -1,0 +1,24 @@
+{
+  "name": "git-sample",
+  "version": "1.0.0",
+  "description": "First time using git and node",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Rp-Shamita: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@github.com/Rp-Shamita/git-sample.git"
+  },
+  "author": "R P Shamita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rp-Shamita/git-sample/issues"
+  },
+  "homepage": "https://github.com/Rp-Shamita/git-sample#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
